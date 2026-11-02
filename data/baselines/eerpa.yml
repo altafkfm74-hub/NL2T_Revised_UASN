@@ -1,0 +1,4 @@
+name: eerpa
+source: paper (Revised R1)
+reference: see nl2t/baselines/eerpa.py header
+default_params: {}

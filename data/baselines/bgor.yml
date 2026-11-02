@@ -1,0 +1,4 @@
+name: bgor
+source: paper (Revised R1)
+reference: see nl2t/baselines/bgor.py header
+default_params: {}

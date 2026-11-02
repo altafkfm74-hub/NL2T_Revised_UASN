@@ -1,0 +1,4 @@
+name: ettor_rl
+source: paper (Revised R1)
+reference: see nl2t/baselines/ettor_rl.py header
+default_params: {}

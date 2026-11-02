@@ -1,0 +1,4 @@
+name: auv_mr3d
+source: paper (Revised R1)
+reference: see nl2t/baselines/auv_mr3d.py header
+default_params: {}

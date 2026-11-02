@@ -1,0 +1,4 @@
+name: qtru
+source: paper (Revised R1)
+reference: see nl2t/baselines/qtru.py header
+default_params: {}

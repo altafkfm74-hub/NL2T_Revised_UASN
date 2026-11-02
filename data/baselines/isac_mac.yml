@@ -1,0 +1,4 @@
+name: isac_mac
+source: paper (Revised R1)
+reference: see nl2t/baselines/isac_mac.py header
+default_params: {}
